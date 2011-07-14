@@ -1,9 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
 <!-- 	
-	NETKILLER - Global IT Innovator <http://www.netkiller.com/>
+	NETKILLER - Global IT Innovator http://www.netkiller.com
 	Copyright (C) 2011  NETKILLER America Inc.
 	Latest version of this program;
-
-	<http://code.google.com/p/netkiller-googleapps-simple-workflow-gadget/>
+	http://code.google.com/p/netkiller-googleapps-simple-workflow-gadget
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU Affero General Public License as
@@ -16,14 +16,13 @@
 	GNU Affero General Public License for more details.
 
 	You should have received a copy of the GNU Affero General Public License
-	along with this program.  If not, see <http://www.gnu.org/licenses/>.
+	along with this program.  If not, see http://www.gnu.org/licenses
 
-	NETKILLER - Global IT Innovator <http://www.netkiller.com/>
+	NETKILLER - Global IT Innovator http://www.netkiller.com
 	Copyright (C) 2011  NETKILLER America Inc.
 	Latest version of this program;
-	<http://code.google.com/p/netkiller-googleapps-simple-workflow-gadget/>
+	http://code.google.com/p/netkiller-googleapps-simple-workflow-gadget
  -->
-<?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
   <ModulePrefs title="N-Approval Gadget using Google Docs."
      scrolling="true" 
@@ -49,13 +48,6 @@
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.0/jquery-ui.min.js"></script>
   <script type="text/javascript" src="http://nk-gadget.appspot.com/js/json_sans_eval.js"></script>
-  <script type="text/javascript"><!--
-    google_ad_client = "pub-0458157281981936";
-    google_ad_slot = "5246486524";
-    google_ad_width = 468;
-    google_ad_height = 60;
-  //-->
-  </script>
   <link rel='stylesheet' type='text/css' href='http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/ui-lightness/jquery-ui.css'/>
   <link type="text/css" rel="stylesheet" href="http://nk-gadget.appspot.com/stylesheets/main.css">
   
@@ -103,10 +95,7 @@
   </div>
   
   <div class="poweredBy">
-  	Powered by <a href="http://www.netkiller.com" target="nk_home">NETKILLER.com</a>
-  </div>
-  <div class="ads">
-    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+  	NETKILLER America Inc. GNU A-GPL License <a href="http://code.google.com/p/netkiller-googleapps-simple-workflow-gadget/" target="prj_home">here</a>
   </div>
   <script type="text/javascript">
     //count docs
